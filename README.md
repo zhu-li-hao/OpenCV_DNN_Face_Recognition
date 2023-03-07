@@ -15,3 +15,9 @@ images文件夹用于保存sample_collection.py运行后采集的人脸样本图
 得益于SFace模型强大的人脸特征提取能力，本程序只需采集一张人脸样本图片即可实现人脸识别！！！
 
 在使用本项目的程序时，记得把程序中的文件路径换成你PC中的实际文件路径！！！
+
+参考资料
+https://docs.opencv.org/4.x/d0/dd4/tutorial_dnn_face.html  
+https://zhuanlan.zhihu.com/p/423625566  
+https://github.com/opencv/opencv/tree/master/samples/dnn  
+https://github.com/opencv/opencv/tree/master/modules/objdetect
